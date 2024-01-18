@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LHNCYXjM/Yq/DS05JH+yU7WIxEJbppmrshpiW3mfEu+MRaliva7K95DH/IGtb2heG+4Ez/1YYRwIv1V8X9GFnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas\\Downloads\\projetos_back\\agenda_telefonica\\agenda_telefonica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\bin\Debug\net8.0\agenda_telefonica.exe
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\bin\Debug\net8.0\agenda_telefonica.deps.json
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\bin\Debug\net8.0\agenda_telefonica.runtimeconfig.json
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\bin\Debug\net8.0\agenda_telefonica.dll
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\bin\Debug\net8.0\agenda_telefonica.pdb
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.dll
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\obj\Debug\net8.0\refint\agenda_telefonica.dll
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.pdb
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\obj\Debug\net8.0\ref\agenda_telefonica.dll
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\projetos_back\agenda_telefonica\obj\Debug\net8.0\agenda_telefonica.csproj.CopyComplete
